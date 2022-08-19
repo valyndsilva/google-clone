@@ -3,5 +3,8 @@ export { default as SearchHeader } from "./SearchHeader";
 export { default as HeaderOptions } from "./HeaderOptions";
 export { default as HeaderOption } from "./HeaderOption";
 export { default as Body } from "./Body";
+export { default as SearchResults } from "./SearchResults";
+export { default as PaginationButtons } from "./PaginationButtons";
+export { default as Pagination } from "./Pagination";
 export { default as Footer } from "./Footer";
 export { default as Avatar } from "./Avatar";

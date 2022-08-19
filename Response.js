@@ -8,9 +8,10 @@ export default {
   queries: {
     request: [
       {
-        title: "Google Custom Search - undefined",
-        totalResults: "1230000000",
-        searchTerms: "undefined",
+        title:
+          "Google Custom Search - doha wakrah weather forecast 30 days accuweather",
+        totalResults: "241",
+        searchTerms: "doha wakrah weather forecast 30 days accuweather",
         count: 10,
         startIndex: 1,
         inputEncoding: "utf8",
@@ -21,9 +22,10 @@ export default {
     ],
     nextPage: [
       {
-        title: "Google Custom Search - undefined",
-        totalResults: "1230000000",
-        searchTerms: "undefined",
+        title:
+          "Google Custom Search - doha wakrah weather forecast 30 days accuweather",
+        totalResults: "241",
+        searchTerms: "doha wakrah weather forecast 30 days accuweather",
         count: 10,
         startIndex: 11,
         inputEncoding: "utf8",
@@ -37,160 +39,199 @@ export default {
     title: "Google",
   },
   searchInformation: {
-    searchTime: 0.507877,
+    searchTime: 0.506167,
     formattedSearchTime: "0.51",
-    totalResults: "1230000000",
-    formattedTotalResults: "1,230,000,000",
+    totalResults: "241",
+    formattedTotalResults: "241",
   },
   items: [
     {
       kind: "customsearch#result",
-      title: "undefined - JavaScript | MDN",
-      htmlTitle: "<b>undefined</b> - JavaScript | MDN",
-      link: "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
-      displayLink: "developer.mozilla.org",
+      title:
+        "Al Wakrah, Al Wakrah, Qatar Today, Tonight & Tomorrow's Weather ...",
+      htmlTitle:
+        "Al <b>Wakrah</b>, Al <b>Wakrah</b>, Qatar Today, Tonight &amp; Tomorrow&#39;s <b>Weather</b> ...",
+      link: "https://www.accuweather.com/en/qa/al-wakrah/271678/weather-forecast/271678",
+      displayLink: "www.accuweather.com",
       snippet:
-        "6 days ago ... A variable that has not been assigned a value is of type undefined . A method or statement also returns undefined if the variable that is being ...",
+        "Get the forecast for today, tonight & tomorrow's weather for Al Wakrah, ... Hi/Low, RealFeel®, precip, radar, & everything you need to be ready for the day, ...",
       htmlSnippet:
-        "6 days ago <b>...</b> A variable that has not been assigned a value is of type <b>undefined</b> . A method or statement also returns <b>undefined</b> if the variable that is being&nbsp;...",
-      cacheId: "JPOmPse90yAJ",
+        "Get the forecast for today, tonight &amp; tomorrow&#39;s <b>weather for</b> Al <b>Wakrah</b>, ... Hi/Low, RealFeel®, precip, radar, &amp; everything you need to be ready for the <b>day</b>,&nbsp;...",
+      cacheId: "iTcAyK-SWpsJ",
       formattedUrl:
-        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/.../undefined",
+        "https://www.accuweather.com/en/qa/al-wakrah/.../weather-forecast/271678",
       htmlFormattedUrl:
-        "https://developer.mozilla.org/en-US/docs/Web/JavaScript/.../<b>undefined</b>",
+        "https://www.<b>accuweather</b>.com/en/qa/al-<b>wakrah</b>/.../<b>weather</b>-<b>forecast</b>/271678",
       pagemap: {
         cse_thumbnail: [
           {
-            src: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzATynhxJ3xCKxahvxBUUWVIDDr0xDYe9RZ0zbnEA0xRNPGYwaPVEQMK0",
-            width: "300",
-            height: "168",
-          },
-        ],
-        BreadcrumbList: [{}],
-        metatags: [
-          {
-            "og:image":
-              "https://developer.mozilla.org/mdn-social-share.cd6c4a5a.png",
-            "theme-color": "#ffffff",
-            "twitter:card": "summary_large_image",
-            viewport: "width=device-width,initial-scale=1",
-            "og:title": "undefined - JavaScript | MDN",
-            "og:locale": "en-US",
-            position: "1",
-            "og:url":
-              "https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/undefined",
-            "og:description":
-              "The global undefined property represents the primitive\n  value undefined. It is one of JavaScript's\n  primitive types.",
-          },
-        ],
-        cse_image: [
-          {
-            src: "https://developer.mozilla.org/mdn-social-share.cd6c4a5a.png",
-          },
-        ],
-      },
-    },
-    {
-      kind: "customsearch#result",
-      title: "Undefined Definition & Meaning - Merriam-Webster",
-      htmlTitle: "<b>Undefined</b> Definition &amp; Meaning - Merriam-Webster",
-      link: "https://www.merriam-webster.com/dictionary/undefined",
-      displayLink: "www.merriam-webster.com",
-      snippet:
-        "The meaning of UNDEFINED is not defined. How to use undefined in a sentence.",
-      htmlSnippet:
-        "The meaning of <b>UNDEFINED</b> is not defined. How to use <b>undefined</b> in a sentence.",
-      cacheId: "mhyep_dRe0oJ",
-      formattedUrl: "https://www.merriam-webster.com/dictionary/undefined",
-      htmlFormattedUrl:
-        "https://www.merriam-webster.com/dictionary/<b>undefined</b>",
-      pagemap: {
-        cse_thumbnail: [
-          {
-            src: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSKksTSKYwpW8It403nrjw5t1_a8pLO2PI6ImEG7uvFrNfacgiziPZgG-_O",
+            src: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuL3Cl1PGFBllvcwU4b4wHJPPefT6kVDqeEeO7j9LjXQpxbXqUOc2DOh1U",
             width: "225",
             height: "225",
           },
         ],
+        postaladdress: [
+          {
+            addresslocality: "Al Khor",
+            addressregion: "Al Khawr wa adh Dhakhirah",
+          },
+          {
+            addresslocality: "Al Wukayr",
+            addressregion: "Al Wakrah",
+          },
+          {
+            addresslocality: "Doha",
+            addressregion: "Doha",
+          },
+        ],
         metatags: [
           {
-            "msapplication-tilecolor": "#2b5797",
             "og:image":
-              "https://merriam-webster.com/assets/mw/static/social-media-share/mw-logo-245x245@1x.png",
-            "twitter:title": "Definition of UNDEFINED",
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:app:url:iphone":
+              "https://apps.apple.com/US/app/id300048137?mt=8",
+            "twitter:app:id:googleplay": "com.accuweather.android",
             "twitter:card": "summary",
-            "theme-color": "#ffffff",
-            "twitter:url":
-              "https://www.merriam-webster.com/dictionary/undefined",
-            "og:title": "Definition of UNDEFINED",
-            "twitter:aria-text": "Share the Definition of undefined on Twitter",
-            "og:aria-text": "Post the Definition of undefined to Facebook",
+            "twitter:app:url:ipad":
+              "https://apps.apple.com/US/app/id300048137?mt=8",
+            "twitter:app:name:googleplay":
+              "AccuWeather Winter weather alerts & forecast radar",
+            "twitter:app:id:iphone":
+              "U7D6TVQ9TT.com.yourcompany.TestWithCustomTabs",
             "og:description":
-              "not defined: such as; not clearly or precisely shown, described, or limited; not provided with a definition… See the full definition",
+              "Get the forecast for today, tonight & tomorrow's weather for Al Wakrah, Al Wakrah, Qatar. Hi/Low, RealFeel®, precip, radar, & everything you need to be ready for the day, commute, and weekend!",
+            "twitter:creator": "https://twitter.com/accuweather",
+            "og:image:secure_url":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
             "twitter:image":
-              "https://merriam-webster.com/assets/mw/static/social-media-share/mw-logo-245x245@1x.png",
-            referrer: "unsafe-url",
-            "fb:app_id": "178450008855735",
-            "twitter:site": "@MerriamWebster",
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:text:title":
+              "Al Wakrah, Al Wakrah, Qatar Today, Tonight & Tomorrow's Weather Forecast | AccuWeather",
+            "twitter:site": "https://twitter.com/accuweather",
+            "fb:profile_id": "AccuWeather",
+            "og:type": "website",
+            "twitter:title":
+              "Al Wakrah, Al Wakrah, Qatar Today, Tonight & Tomorrow's Weather Forecast | AccuWeather",
+            "twitter:site:id": "https://twitter.com/accuweather",
+            "og:image:url":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "og:title":
+              "Al Wakrah, Al Wakrah, Qatar Today, Tonight & Tomorrow's Weather Forecast | AccuWeather",
+            "twitter:app:id:ipad":
+              "U7D6TVQ9TT.com.yourcompany.TestWithCustomTabs",
+            "fb:pages": "71781612888",
+            site_name: "AccuWeather",
+            referrer: "origin",
+            "fb:app_id": "132437483467956",
+            "twitter:app:url:googleplay":
+              "https://play.google.com/store/apps/details?id=com.accuweather.android",
+            "twitter:creator:id": "https://twitter.com/accuweather",
+            "twitter:app:name:ipad": "AccuWeather: Weather Tracker",
             viewport: "width=device-width, initial-scale=1.0",
             "twitter:description":
-              "not defined: such as; not clearly or precisely shown, described, or limited; not provided with a definition… See the full definition",
-            "og:url": "https://www.merriam-webster.com/dictionary/undefined",
-          },
-        ],
-        cse_image: [
-          {
-            src: "https://merriam-webster.com/assets/mw/static/social-media-share/mw-logo-245x245@1x.png",
-          },
-        ],
-      },
-    },
-    {
-      kind: "customsearch#result",
-      title:
-        "undefined - MDN Web Docs Glossary: Definitions of Web-related terms",
-      htmlTitle:
-        "<b>undefined</b> - MDN Web Docs Glossary: Definitions of Web-related terms",
-      link: "https://developer.mozilla.org/en-US/docs/Glossary/undefined",
-      displayLink: "developer.mozilla.org",
-      snippet:
-        "Aug 10, 2022 ... undefined is a primitive value automatically assigned to variables that have just been declared, or to formal arguments for which there are ...",
-      htmlSnippet:
-        "Aug 10, 2022 <b>...</b> <b>undefined</b> is a primitive value automatically assigned to variables that have just been declared, or to formal arguments for which there are&nbsp;...",
-      cacheId: "uHyFiYJJLC8J",
-      formattedUrl:
-        "https://developer.mozilla.org/en-US/docs/Glossary/undefined",
-      htmlFormattedUrl:
-        "https://developer.mozilla.org/en-US/docs/Glossary/<b>undefined</b>",
-      pagemap: {
-        cse_thumbnail: [
-          {
-            src: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzATynhxJ3xCKxahvxBUUWVIDDr0xDYe9RZ0zbnEA0xRNPGYwaPVEQMK0",
-            width: "300",
-            height: "168",
-          },
-        ],
-        BreadcrumbList: [{}],
-        metatags: [
-          {
-            "og:image":
-              "https://developer.mozilla.org/mdn-social-share.cd6c4a5a.png",
-            "theme-color": "#ffffff",
-            "twitter:card": "summary_large_image",
-            viewport: "width=device-width,initial-scale=1",
-            "og:title":
-              "undefined - MDN Web Docs Glossary: Definitions of Web-related terms | MDN",
-            "og:locale": "en-US",
-            position: "1",
+              "Get the forecast for today, tonight & tomorrow's weather for Al Wakrah, Al Wakrah, Qatar. Hi/Low, RealFeel®, precip, radar, & everything you need to be ready for the day, commute, and weekend!",
             "og:url":
-              "https://developer.mozilla.org/en-US/docs/Glossary/undefined",
-            "og:description":
-              "undefined is a primitive value automatically assigned to variables that have just been declared, or to formal arguments for which there are no actual arguments.",
+              "https://www.accuweather.com/en/qa/al-wakrah/271678/weather-forecast/271678",
+            "twitter:app:name:iphone": "AccuWeather: Weather Tracker",
           },
         ],
         cse_image: [
           {
-            src: "https://developer.mozilla.org/mdn-social-share.cd6c4a5a.png",
+            src: "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+          },
+        ],
+      },
+    },
+    {
+      kind: "customsearch#result",
+      title: "Doha, Doha, Qatar Monthly Weather | AccuWeather",
+      htmlTitle:
+        "<b>Doha</b>, <b>Doha</b>, Qatar Monthly <b>Weather</b> | <b>AccuWeather</b>",
+      link: "https://www.accuweather.com/en/qa/doha/271669/october-weather/271669",
+      displayLink: "www.accuweather.com",
+      snippet:
+        "Get the monthly weather forecast for Doha, Doha, Qatar, including daily high/low, historical averages, to help you plan ahead.",
+      htmlSnippet:
+        "Get the monthly <b>weather forecast</b> for <b>Doha</b>, <b>Doha</b>, Qatar, including daily high/low, historical averages, to help you plan ahead.",
+      cacheId: "mYJRpt77JikJ",
+      formattedUrl:
+        "https://www.accuweather.com/en/qa/doha/271669/october-weather/271669",
+      htmlFormattedUrl:
+        "https://www.<b>accuweather</b>.com/en/qa/<b>doha</b>/271669/october-<b>weather</b>/271669",
+      pagemap: {
+        cse_thumbnail: [
+          {
+            src: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuL3Cl1PGFBllvcwU4b4wHJPPefT6kVDqeEeO7j9LjXQpxbXqUOc2DOh1U",
+            width: "225",
+            height: "225",
+          },
+        ],
+        postaladdress: [
+          {
+            addresslocality: "Al Khor",
+            addressregion: "Al Khawr wa adh Dhakhirah",
+          },
+          {
+            addresslocality: "Al Wukayr",
+            addressregion: "Al Wakrah",
+          },
+          {
+            addresslocality: "Umm Said",
+            addressregion: "Al Wakrah",
+          },
+        ],
+        metatags: [
+          {
+            "og:image":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:app:url:iphone":
+              "https://apps.apple.com/US/app/id300048137?mt=8",
+            "twitter:app:id:googleplay": "com.accuweather.android",
+            "twitter:card": "summary",
+            "twitter:app:url:ipad":
+              "https://apps.apple.com/US/app/id300048137?mt=8",
+            "twitter:app:name:googleplay":
+              "AccuWeather Winter weather alerts & forecast radar",
+            "twitter:app:id:iphone":
+              "U7D6TVQ9TT.com.yourcompany.TestWithCustomTabs",
+            "og:description":
+              "Get the monthly weather forecast for Doha, Doha, Qatar, including daily high/low, historical averages, to help you plan ahead.",
+            "twitter:creator": "https://twitter.com/accuweather",
+            "og:image:secure_url":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:image":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:text:title":
+              "Doha, Doha, Qatar Monthly Weather | AccuWeather",
+            "twitter:site": "https://twitter.com/accuweather",
+            "fb:profile_id": "AccuWeather",
+            "og:type": "website",
+            "twitter:title": "Doha, Doha, Qatar Monthly Weather | AccuWeather",
+            "twitter:site:id": "https://twitter.com/accuweather",
+            "og:image:url":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "og:title": "Doha, Doha, Qatar Monthly Weather | AccuWeather",
+            "twitter:app:id:ipad":
+              "U7D6TVQ9TT.com.yourcompany.TestWithCustomTabs",
+            "fb:pages": "71781612888",
+            site_name: "AccuWeather",
+            referrer: "origin",
+            "fb:app_id": "132437483467956",
+            "twitter:app:url:googleplay":
+              "https://play.google.com/store/apps/details?id=com.accuweather.android",
+            "twitter:creator:id": "https://twitter.com/accuweather",
+            "twitter:app:name:ipad": "AccuWeather: Weather Tracker",
+            viewport: "width=device-width, initial-scale=1.0",
+            "twitter:description":
+              "Get the monthly weather forecast for Doha, Doha, Qatar, including daily high/low, historical averages, to help you plan ahead.",
+            "og:url":
+              "https://www.accuweather.com/en/qa/doha/271669/october-weather/271669",
+            "twitter:app:name:iphone": "AccuWeather: Weather Tracker",
+          },
+        ],
+        cse_image: [
+          {
+            src: "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
           },
         ],
       },
@@ -198,259 +239,766 @@ export default {
     {
       kind: "customsearch#result",
       title:
-        "Undefined | Clean. Conscious. Inclusive. Plant Magic. – Undefined Inc",
+        "Doha, Doha, Qatar Dust and Dander Allergen Forecast | AccuWeather",
       htmlTitle:
-        "<b>Undefined</b> | Clean. Conscious. Inclusive. Plant Magic. – <b>Undefined</b> Inc",
-      link: "https://undefinedco.com/",
-      displayLink: "undefinedco.com",
+        "<b>Doha</b>, <b>Doha</b>, Qatar Dust and Dander Allergen <b>Forecast</b> | <b>AccuWeather</b>",
+      link: "https://www.accuweather.com/en/qa/doha/271669/allergies-weather/271669",
+      displayLink: "www.accuweather.com",
       snippet:
-        "Clean. Conscious. Inclusive. Plant Magic. Wellness shouldn't be illusive or exclusive- let's democratize it!",
+        "Get your local dust and dander allergy forecast. ... Today's Weather Factors. RealFeel High 116°. RealFeel Shade High 112° ... Close windows on windy days.",
       htmlSnippet:
-        "Clean. Conscious. Inclusive. Plant Magic. Wellness shouldn&#39;t be illusive or exclusive- let&#39;s democratize it!",
-      formattedUrl: "https://undefinedco.com/",
-      htmlFormattedUrl: "https://<b>undefined</b>co.com/",
+        "Get your local dust and dander allergy <b>forecast</b>. ... Today&#39;s <b>Weather</b> Factors. RealFeel High 116°. RealFeel Shade High 112° ... Close windows on windy <b>days</b>.",
+      cacheId: "ButHZGx_INIJ",
+      formattedUrl:
+        "https://www.accuweather.com/en/qa/doha/271669/allergies-weather/271669",
+      htmlFormattedUrl:
+        "https://www.<b>accuweather</b>.com/en/qa/<b>doha</b>/271669/allergies-<b>weather</b>/271669",
       pagemap: {
         cse_thumbnail: [
           {
-            src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOS9Ydrr2SMLcAWQhVsYXRjtdu9KzMiQ5S-K8NoX3_LXzNgqy1DIjd6gU",
+            src: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuL3Cl1PGFBllvcwU4b4wHJPPefT6kVDqeEeO7j9LjXQpxbXqUOc2DOh1U",
             width: "225",
             height: "225",
           },
         ],
-        organization: [
+        postaladdress: [
           {
-            logo: "https://cdn.shopify.com/s/files/1/0537/6973/2272/files/UDC_-_Branding_Elements-White-14_dd387710-fccc-406e-a750-0c73caf1a91a_400x.png?v=1626371799",
-            url: "https://undefinedco.com/",
+            addresslocality: "Al Khor",
+            addressregion: "Al Khawr wa adh Dhakhirah",
+          },
+          {
+            addresslocality: "Al Wukayr",
+            addressregion: "Al Wakrah",
+          },
+          {
+            addresslocality: "Umm Said",
+            addressregion: "Al Wakrah",
           },
         ],
         metatags: [
           {
             "og:image":
-              "https://cdn.shopify.com/s/files/1/0537/6973/2272/files/logo_on_purple_background_195b76f7-2ea8-459a-8935-f5323e224a13.png?v=1626815860",
-            "theme-color": "#000000",
-            "og:type": "website",
-            "twitter:card": "summary_large_image",
-            "twitter:title":
-              "Undefined | Clean. Conscious. Inclusive. Plant Magic.",
-            "og:image:width": "1080",
-            "og:site_name": "Undefined Inc",
-            "og:title": "Undefined | Clean. Conscious. Inclusive. Plant Magic.",
-            "shopify-checkout-api-token": "858f5c95c434632614f9da0741266ad9",
-            "og:image:height": "1080",
-            "og:description":
-              "Clean. Conscious. Inclusive. Plant Magic. Wellness shouldn't be illusive or exclusive- let's democratize it!",
-            "og:image:secure_url":
-              "https://cdn.shopify.com/s/files/1/0537/6973/2272/files/logo_on_purple_background_195b76f7-2ea8-459a-8935-f5323e224a13.png?v=1626815860",
-            "facebook-domain-verification": "hjbs0tzvianbckz2t1tvn4u5fa7pvz",
-            "twitter:site": "@",
-            viewport: "width=device-width,initial-scale=1",
-            "twitter:description":
-              "Clean. Conscious. Inclusive. Plant Magic. Wellness shouldn't be illusive or exclusive- let's democratize it!",
-            "shopify-digital-wallet": "/53769732272/digital_wallets/dialog",
-            "og:url": "https://undefinedco.com/",
-          },
-        ],
-        cse_image: [
-          {
-            src: "https://cdn.shopify.com/s/files/1/0537/6973/2272/files/logo_on_purple_background_195b76f7-2ea8-459a-8935-f5323e224a13.png?v=1626815860",
-          },
-        ],
-      },
-    },
-    {
-      kind: "customsearch#result",
-      title: "Undefined (mathematics) - Wikipedia",
-      htmlTitle: "<b>Undefined</b> (mathematics) - Wikipedia",
-      link: "https://en.wikipedia.org/wiki/Undefined_(mathematics)",
-      displayLink: "en.wikipedia.org",
-      snippet:
-        "In mathematics, the term undefined is often used to refer to an expression which is not assigned an interpretation or a value The term can take on several ...",
-      htmlSnippet:
-        "In mathematics, the term <b>undefined</b> is often used to refer to an expression which is not assigned an interpretation or a value The term can take on several&nbsp;...",
-      cacheId: "ZtlaChw4BDAJ",
-      formattedUrl: "https://en.wikipedia.org/wiki/Undefined_(mathematics)",
-      htmlFormattedUrl:
-        "https://en.wikipedia.org/wiki/<b>Undefined</b>_(mathematics)",
-      pagemap: {
-        metatags: [
-          {
-            referrer: "origin",
-            "theme-color": "#eaecf0",
-            "og:type": "website",
-            viewport:
-              "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
-            "og:title": "Undefined (mathematics) - Wikipedia",
-            "format-detection": "telephone=no",
-          },
-        ],
-      },
-    },
-    {
-      kind: "customsearch#result",
-      title: "JavaScript undefined Property",
-      htmlTitle: "JavaScript <b>undefined</b> Property",
-      link: "https://www.w3schools.com/jsref/jsref_undefined.asp",
-      displayLink: "www.w3schools.com",
-      snippet:
-        "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, ...",
-      htmlSnippet:
-        "Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java,&nbsp;...",
-      cacheId: "o1x5ITyEj6MJ",
-      formattedUrl: "https://www.w3schools.com/jsref/jsref_undefined.asp",
-      htmlFormattedUrl:
-        "https://www.w3schools.com/jsref/jsref_<b>undefined</b>.asp",
-      pagemap: {
-        metatags: [
-          {
-            "og:image":
-              "https://www.w3schools.com/images/w3schools_logo_436_2.png",
-            "og:image:width": "436",
-            viewport: "width=device-width, initial-scale=1",
-            "og:image:height": "228",
-            "og:image:type": "image/png",
-            "og:description":
-              "W3Schools offers free online tutorials, references and exercises in all the major languages of the web. Covering popular subjects like HTML, CSS, JavaScript, Python, SQL, Java, and many, many more.",
-          },
-        ],
-        cse_image: [
-          {
-            src: "https://www.w3schools.com/images/w3schools_logo_436_2.png",
-          },
-        ],
-      },
-    },
-    {
-      kind: "customsearch#result",
-      title: "Undefined - Wikipedia",
-      htmlTitle: "<b>Undefined</b> - Wikipedia",
-      link: "https://en.wikipedia.org/wiki/Undefined",
-      displayLink: "en.wikipedia.org",
-      snippet:
-        "ComputingEdit · Undefined behavior, computer code whose behavior is not specified under certain conditions · Undefined value, a condition where an expression does ...",
-      htmlSnippet:
-        "ComputingEdit &middot; <b>Undefined</b> behavior, computer code whose behavior is not specified under certain conditions &middot; <b>Undefined</b> value, a condition where an expression does&nbsp;...",
-      cacheId: "4pcUmBADZLUJ",
-      formattedUrl: "https://en.wikipedia.org/wiki/Undefined",
-      htmlFormattedUrl: "https://en.wikipedia.org/wiki/<b>Undefined</b>",
-      pagemap: {
-        metatags: [
-          {
-            referrer: "origin",
-            "theme-color": "#eaecf0",
-            "og:type": "website",
-            viewport:
-              "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
-            "og:title": "Undefined - Wikipedia",
-            "format-detection": "telephone=no",
-          },
-        ],
-      },
-    },
-    {
-      kind: "customsearch#result",
-      title: "The Undefined Podcast",
-      htmlTitle: "The <b>Undefined</b> Podcast",
-      link: "https://undefined.fm/",
-      displayLink: "undefined.fm",
-      snippet:
-        "The only engineering podcast with a 2 drink minimum. Hosted by Jared Palmer and Ken Wheeler.",
-      htmlSnippet:
-        "The only engineering podcast with a 2 drink minimum. Hosted by Jared Palmer and Ken Wheeler.",
-      cacheId: "ORzWCdLc5eYJ",
-      formattedUrl: "https://undefined.fm/",
-      htmlFormattedUrl: "https://<b>undefined</b>.fm/",
-      pagemap: {
-        cse_thumbnail: [
-          {
-            src: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQdLsV0jXnOOsrFJ4k3Mspsu1WkJWtGhp5sZj4wHcc-SsAFEgwrd7ZaIw",
-            width: "225",
-            height: "225",
-          },
-        ],
-        metatags: [
-          {
-            "application-name": "undefined.fm",
-            "og:image":
-              "https://media.simplecast.com/podcast/image/8781/1549548387-artwork.jpg",
-            "apple-itunes-app": "app-id=1451541555",
-            copyright: "The Palmer Group",
-            "og:type": "website",
-            "twitter:title": "The Undefined Podcast",
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:app:url:iphone":
+              "https://apps.apple.com/US/app/id300048137?mt=8",
+            "twitter:app:id:googleplay": "com.accuweather.android",
             "twitter:card": "summary",
-            "theme-color": "#fff",
-            "og:site_name": "The Undefined Podcast",
-            "og:title": "The Undefined Podcast",
-            "apple-mobile-web-app-title": "undefined.fm",
+            "twitter:app:url:ipad":
+              "https://apps.apple.com/US/app/id300048137?mt=8",
+            "twitter:app:name:googleplay":
+              "AccuWeather Winter weather alerts & forecast radar",
+            "twitter:app:id:iphone":
+              "U7D6TVQ9TT.com.yourcompany.TestWithCustomTabs",
             "og:description":
-              "The only engineering podcast with a 2 drink minimum. Hosted by Jared Palmer and Ken Wheeler.",
+              "Dust contains pet hair, dander, mold spores, and dust mites, and all trigger allergy symptoms. Get your local dust and dander allergy forecast.",
+            "twitter:creator": "https://twitter.com/accuweather",
+            "og:image:secure_url":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
             "twitter:image":
-              "https://media.simplecast.com/podcast/image/8781/1549548387-artwork.jpg",
-            "twitter:site": "@theundefinedio",
-            "apple-mobile-web-app-status-bar-style": "black-translucent",
-            viewport: "width=device-width, initial-scale=1, shrink-to-fit=no",
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:text:title":
+              "Doha, Doha, Qatar Dust and Dander Allergen Forecast | AccuWeather",
+            "twitter:site": "https://twitter.com/accuweather",
+            "fb:profile_id": "AccuWeather",
+            "og:type": "website",
+            "twitter:title":
+              "Doha, Doha, Qatar Dust and Dander Allergen Forecast | AccuWeather",
+            "twitter:site:id": "https://twitter.com/accuweather",
+            "og:image:url":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "og:title":
+              "Doha, Doha, Qatar Dust and Dander Allergen Forecast | AccuWeather",
+            "twitter:app:id:ipad":
+              "U7D6TVQ9TT.com.yourcompany.TestWithCustomTabs",
+            "fb:pages": "71781612888",
+            site_name: "AccuWeather",
+            referrer: "origin",
+            "fb:app_id": "132437483467956",
+            "twitter:app:url:googleplay":
+              "https://play.google.com/store/apps/details?id=com.accuweather.android",
+            "twitter:creator:id": "https://twitter.com/accuweather",
+            "twitter:app:name:ipad": "AccuWeather: Weather Tracker",
+            viewport: "width=device-width, initial-scale=1.0",
             "twitter:description":
-              "The only engineering podcast with a 2 drink minimum. Hosted by Jared Palmer and Ken Wheeler.",
-            "apple-mobile-web-app-capable": "yes",
-            "og:locale": "en_US",
-            "mobile-web-app-capable": "yes",
-            "og:url": "https://undefined.fmundefined",
+              "Dust contains pet hair, dander, mold spores, and dust mites, and all trigger allergy symptoms. Get your local dust and dander allergy forecast.",
+            "og:url":
+              "https://www.accuweather.com/en/qa/doha/271669/allergies-weather/271669",
+            "twitter:app:name:iphone": "AccuWeather: Weather Tracker",
           },
         ],
         cse_image: [
           {
-            src: "https://media.simplecast.com/podcast/image/8781/1549548387-artwork.jpg",
+            src: "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
           },
         ],
       },
     },
     {
       kind: "customsearch#result",
-      title: "undefined - Wiktionary",
-      htmlTitle: "<b>undefined</b> - Wiktionary",
-      link: "https://en.wiktionary.org/wiki/undefined",
-      displayLink: "en.wiktionary.org",
+      title: "Doha, Doha, Qatar Daily Weather | AccuWeather",
+      htmlTitle:
+        "<b>Doha</b>, <b>Doha</b>, Qatar Daily <b>Weather</b> | <b>AccuWeather</b>",
+      link: "https://www.accuweather.com/en/qa/doha/271669/daily-weather-forecast/271669",
+      displayLink: "www.accuweather.com",
       snippet:
-        "AdjectiveEdit · Lacking a definition or value. · (mathematics, computing) That does not have a meaning and is thus not assigned an interpretation. The result of ...",
+        "Know what's coming with AccuWeather's extended daily forecasts for Doha, Doha, Qatar. Up to 90 days of daily highs, lows, and precipitation chances.",
       htmlSnippet:
-        "AdjectiveEdit &middot; Lacking a definition or value. &middot; (mathematics, computing) That does not have a meaning and is thus not assigned an interpretation. The result of&nbsp;...",
-      cacheId: "1dL43omMrUUJ",
-      formattedUrl: "https://en.wiktionary.org/wiki/undefined",
-      htmlFormattedUrl: "https://en.wiktionary.org/wiki/<b>undefined</b>",
-      pagemap: {
-        metatags: [
-          {
-            referrer: "origin",
-            "theme-color": "#eaecf0",
-            "og:type": "website",
-            viewport:
-              "width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=0.25, maximum-scale=5.0",
-            "og:title": "undefined - Wiktionary",
-            "format-detection": "telephone=no",
-          },
-        ],
-      },
-    },
-    {
-      kind: "customsearch#result",
-      title: "Undefined—Wolfram Language Documentation",
-      htmlTitle: "<b>Undefined</b>—Wolfram Language Documentation",
-      link: "https://reference.wolfram.com/language/ref/Undefined.html",
-      displayLink: "reference.wolfram.com",
-      snippet:
-        "Undefined is a symbol that represents a quantity with no defined value.",
-      htmlSnippet:
-        "<b>Undefined</b> is a symbol that represents a quantity with no defined value.",
-      cacheId: "MQQnsSDONOEJ",
-      formattedUrl: "https://reference.wolfram.com/language/ref/Undefined.html",
+        "Know what&#39;s coming with <b>AccuWeather&#39;s</b> extended daily forecasts <b>for Doha</b>, <b>Doha</b>, Qatar. Up to 90 <b>days</b> of daily highs, lows, and precipitation chances.",
+      cacheId: "QwzqbRTkfwQJ",
+      formattedUrl:
+        "https://www.accuweather.com/en/qa/doha/.../daily-weather-forecast/271669",
       htmlFormattedUrl:
-        "https://reference.wolfram.com/language/ref/<b>Undefined</b>.html",
+        "https://www.<b>accuweather</b>.com/en/qa/<b>doha</b>/.../daily-<b>weather</b>-<b>forecast</b>/271669",
       pagemap: {
+        cse_thumbnail: [
+          {
+            src: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuL3Cl1PGFBllvcwU4b4wHJPPefT6kVDqeEeO7j9LjXQpxbXqUOc2DOh1U",
+            width: "225",
+            height: "225",
+          },
+        ],
+        postaladdress: [
+          {
+            addresslocality: "Al Khor",
+            addressregion: "Al Khawr wa adh Dhakhirah",
+          },
+          {
+            addresslocality: "Al Wukayr",
+            addressregion: "Al Wakrah",
+          },
+          {
+            addresslocality: "Umm Said",
+            addressregion: "Al Wakrah",
+          },
+        ],
         metatags: [
           {
-            "msapplication-config": "/browserconfig.xml",
-            buildnumber: "143",
-            viewport: "width=device-width, initial-scale=1",
-            historydata: "{8, , , }",
+            "og:image":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:app:url:iphone":
+              "https://apps.apple.com/US/app/id300048137?mt=8",
+            "twitter:app:id:googleplay": "com.accuweather.android",
+            "twitter:card": "summary",
+            "twitter:app:url:ipad":
+              "https://apps.apple.com/US/app/id300048137?mt=8",
+            "twitter:app:name:googleplay":
+              "AccuWeather Winter weather alerts & forecast radar",
+            "twitter:app:id:iphone":
+              "U7D6TVQ9TT.com.yourcompany.TestWithCustomTabs",
+            "og:description":
+              "Know what's coming with AccuWeather's extended daily forecasts for Doha, Doha, Qatar. Up to 90 days of daily highs, lows, and precipitation chances.",
+            "twitter:creator": "https://twitter.com/accuweather",
+            "og:image:secure_url":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:image":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:text:title":
+              "Doha, Doha, Qatar Daily Weather | AccuWeather",
+            "twitter:site": "https://twitter.com/accuweather",
+            "fb:profile_id": "AccuWeather",
+            "og:type": "website",
+            "twitter:title": "Doha, Doha, Qatar Daily Weather | AccuWeather",
+            "twitter:site:id": "https://twitter.com/accuweather",
+            "og:image:url":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "og:title": "Doha, Doha, Qatar Daily Weather | AccuWeather",
+            "twitter:app:id:ipad":
+              "U7D6TVQ9TT.com.yourcompany.TestWithCustomTabs",
+            "fb:pages": "71781612888",
+            site_name: "AccuWeather",
+            referrer: "origin",
+            "fb:app_id": "132437483467956",
+            "twitter:app:url:googleplay":
+              "https://play.google.com/store/apps/details?id=com.accuweather.android",
+            "twitter:creator:id": "https://twitter.com/accuweather",
+            "twitter:app:name:ipad": "AccuWeather: Weather Tracker",
+            viewport: "width=device-width, initial-scale=1.0",
+            "twitter:description":
+              "Know what's coming with AccuWeather's extended daily forecasts for Doha, Doha, Qatar. Up to 90 days of daily highs, lows, and precipitation chances.",
+            "og:url":
+              "https://www.accuweather.com/en/qa/doha/271669/daily-weather-forecast/271669",
+            "twitter:app:name:iphone": "AccuWeather: Weather Tracker",
+          },
+        ],
+        cse_image: [
+          {
+            src: "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+          },
+        ],
+      },
+    },
+    {
+      kind: "customsearch#result",
+      title: "Al Wakrah, Al Wakrah, Qatar Monthly Weather | AccuWeather",
+      htmlTitle:
+        "Al <b>Wakrah</b>, Al <b>Wakrah</b>, Qatar Monthly <b>Weather</b> | <b>AccuWeather</b>",
+      link: "https://www.accuweather.com/en/qa/al-wakrah/271678/october-weather/271678",
+      displayLink: "www.accuweather.com",
+      snippet:
+        "Get the monthly weather forecast for Al Wakrah, Al Wakrah, Qatar, including daily high/low, historical averages, to help you plan ahead.",
+      htmlSnippet:
+        "Get the monthly <b>weather forecast</b> for Al <b>Wakrah</b>, Al <b>Wakrah</b>, Qatar, including daily high/low, historical averages, to help you plan ahead.",
+      cacheId: "5jrw_7QR48YJ",
+      formattedUrl:
+        "https://www.accuweather.com/en/qa/al-wakrah/271678/...weather/271678",
+      htmlFormattedUrl:
+        "https://www.<b>accuweather</b>.com/en/qa/al-<b>wakrah</b>/271678/...<b>weather</b>/271678",
+      pagemap: {
+        cse_thumbnail: [
+          {
+            src: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuL3Cl1PGFBllvcwU4b4wHJPPefT6kVDqeEeO7j9LjXQpxbXqUOc2DOh1U",
+            width: "225",
+            height: "225",
+          },
+        ],
+        postaladdress: [
+          {
+            addresslocality: "Al Khor",
+            addressregion: "Al Khawr wa adh Dhakhirah",
+          },
+          {
+            addresslocality: "Al Wukayr",
+            addressregion: "Al Wakrah",
+          },
+          {
+            addresslocality: "Doha",
+            addressregion: "Doha",
+          },
+        ],
+        metatags: [
+          {
+            "og:image":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:app:url:iphone":
+              "https://apps.apple.com/US/app/id300048137?mt=8",
+            "twitter:app:id:googleplay": "com.accuweather.android",
+            "twitter:card": "summary",
+            "twitter:app:url:ipad":
+              "https://apps.apple.com/US/app/id300048137?mt=8",
+            "twitter:app:name:googleplay":
+              "AccuWeather Winter weather alerts & forecast radar",
+            "twitter:app:id:iphone":
+              "U7D6TVQ9TT.com.yourcompany.TestWithCustomTabs",
+            "og:description":
+              "Get the monthly weather forecast for Al Wakrah, Al Wakrah, Qatar, including daily high/low, historical averages, to help you plan ahead.",
+            "twitter:creator": "https://twitter.com/accuweather",
+            "og:image:secure_url":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:image":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:text:title":
+              "Al Wakrah, Al Wakrah, Qatar Monthly Weather | AccuWeather",
+            "twitter:site": "https://twitter.com/accuweather",
+            "fb:profile_id": "AccuWeather",
+            "og:type": "website",
+            "twitter:title":
+              "Al Wakrah, Al Wakrah, Qatar Monthly Weather | AccuWeather",
+            "twitter:site:id": "https://twitter.com/accuweather",
+            "og:image:url":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "og:title":
+              "Al Wakrah, Al Wakrah, Qatar Monthly Weather | AccuWeather",
+            "twitter:app:id:ipad":
+              "U7D6TVQ9TT.com.yourcompany.TestWithCustomTabs",
+            "fb:pages": "71781612888",
+            site_name: "AccuWeather",
+            referrer: "origin",
+            "fb:app_id": "132437483467956",
+            "twitter:app:url:googleplay":
+              "https://play.google.com/store/apps/details?id=com.accuweather.android",
+            "twitter:creator:id": "https://twitter.com/accuweather",
+            "twitter:app:name:ipad": "AccuWeather: Weather Tracker",
+            viewport: "width=device-width, initial-scale=1.0",
+            "twitter:description":
+              "Get the monthly weather forecast for Al Wakrah, Al Wakrah, Qatar, including daily high/low, historical averages, to help you plan ahead.",
+            "og:url":
+              "https://www.accuweather.com/en/qa/al-wakrah/271678/october-weather/271678",
+            "twitter:app:name:iphone": "AccuWeather: Weather Tracker",
+          },
+        ],
+        cse_image: [
+          {
+            src: "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+          },
+        ],
+      },
+    },
+    {
+      kind: "customsearch#result",
+      title: "Umm Said, Al Wakrah, Qatar Daily Weather | AccuWeather",
+      htmlTitle:
+        "Umm Said, Al <b>Wakrah</b>, Qatar Daily <b>Weather</b> | <b>AccuWeather</b>",
+      link: "https://www.accuweather.com/en/qa/umm-said/276074/daily-weather-forecast/276074",
+      displayLink: "www.accuweather.com",
+      snippet:
+        "Know what's coming with AccuWeather's extended daily forecasts for Umm Said, Al Wakrah, Qatar. Up to 90 days of daily highs, lows, and precipitation ...",
+      htmlSnippet:
+        "Know what&#39;s coming with <b>AccuWeather&#39;s</b> extended daily forecasts <b>for</b> Umm Said, Al <b>Wakrah</b>, Qatar. Up to 90 <b>days</b> of daily highs, lows, and precipitation&nbsp;...",
+      cacheId: "hgSRbqLufc0J",
+      formattedUrl:
+        "https://www.accuweather.com/en/qa/umm-said/...weather-forecast/276074",
+      htmlFormattedUrl:
+        "https://www.<b>accuweather</b>.com/en/qa/umm-said/...<b>weather</b>-<b>forecast</b>/276074",
+      pagemap: {
+        cse_thumbnail: [
+          {
+            src: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuL3Cl1PGFBllvcwU4b4wHJPPefT6kVDqeEeO7j9LjXQpxbXqUOc2DOh1U",
+            width: "225",
+            height: "225",
+          },
+        ],
+        postaladdress: [
+          {
+            addresslocality: "Al Maqran",
+            addressregion: "Ar Rayyan",
+          },
+          {
+            addresslocality: "Al Wukayr",
+            addressregion: "Al Wakrah",
+          },
+          {
+            addresslocality: "Doha",
+            addressregion: "Doha",
+          },
+        ],
+        metatags: [
+          {
+            "og:image":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:app:url:iphone":
+              "https://apps.apple.com/US/app/id300048137?mt=8",
+            "twitter:app:id:googleplay": "com.accuweather.android",
+            "twitter:card": "summary",
+            "twitter:app:url:ipad":
+              "https://apps.apple.com/US/app/id300048137?mt=8",
+            "twitter:app:name:googleplay":
+              "AccuWeather Winter weather alerts & forecast radar",
+            "twitter:app:id:iphone":
+              "U7D6TVQ9TT.com.yourcompany.TestWithCustomTabs",
+            "og:description":
+              "Know what's coming with AccuWeather's extended daily forecasts for Umm Said, Al Wakrah, Qatar. Up to 90 days of daily highs, lows, and precipitation chances.",
+            "twitter:creator": "https://twitter.com/accuweather",
+            "og:image:secure_url":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:image":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:text:title":
+              "Umm Said, Al Wakrah, Qatar Daily Weather | AccuWeather",
+            "twitter:site": "https://twitter.com/accuweather",
+            "fb:profile_id": "AccuWeather",
+            "og:type": "website",
+            "twitter:title":
+              "Umm Said, Al Wakrah, Qatar Daily Weather | AccuWeather",
+            "twitter:site:id": "https://twitter.com/accuweather",
+            "og:image:url":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "og:title":
+              "Umm Said, Al Wakrah, Qatar Daily Weather | AccuWeather",
+            "twitter:app:id:ipad":
+              "U7D6TVQ9TT.com.yourcompany.TestWithCustomTabs",
+            "fb:pages": "71781612888",
+            site_name: "AccuWeather",
+            referrer: "origin",
+            "fb:app_id": "132437483467956",
+            "twitter:app:url:googleplay":
+              "https://play.google.com/store/apps/details?id=com.accuweather.android",
+            "twitter:creator:id": "https://twitter.com/accuweather",
+            "twitter:app:name:ipad": "AccuWeather: Weather Tracker",
+            viewport: "width=device-width, initial-scale=1.0",
+            "twitter:description":
+              "Know what's coming with AccuWeather's extended daily forecasts for Umm Said, Al Wakrah, Qatar. Up to 90 days of daily highs, lows, and precipitation chances.",
+            "og:url":
+              "https://www.accuweather.com/en/qa/umm-said/276074/daily-weather-forecast/276074",
+            "twitter:app:name:iphone": "AccuWeather: Weather Tracker",
+          },
+        ],
+        cse_image: [
+          {
+            src: "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+          },
+        ],
+      },
+    },
+    {
+      kind: "customsearch#result",
+      title: "Al Markhiyah, Doha, Qatar Snow Days Weather Forecast ...",
+      htmlTitle:
+        "Al Markhiyah, <b>Doha</b>, Qatar Snow <b>Days Weather Forecast</b> ...",
+      link: "https://www.accuweather.com/en/qa/al-markhiyah/1280377/snow-day-weather/1280377",
+      displayLink: "www.accuweather.com",
+      snippet:
+        "Your localized snow-day weather forecast, from AccuWeather, provides you with the tailored weather forecast that you need to plan your day's activities.",
+      htmlSnippet:
+        "Your localized snow-<b>day weather forecast</b>, from <b>AccuWeather</b>, provides you with the tailored <b>weather forecast</b> that you need to plan your <b>day&#39;s</b> activities.",
+      cacheId: "MhLIhUnJ4qAJ",
+      formattedUrl:
+        "https://www.accuweather.com/en/qa/al-markhiyah/...day-weather/1280377",
+      htmlFormattedUrl:
+        "https://www.<b>accuweather</b>.com/en/qa/al-markhiyah/...<b>day</b>-<b>weather</b>/1280377",
+      pagemap: {
+        cse_thumbnail: [
+          {
+            src: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuL3Cl1PGFBllvcwU4b4wHJPPefT6kVDqeEeO7j9LjXQpxbXqUOc2DOh1U",
+            width: "225",
+            height: "225",
+          },
+        ],
+        postaladdress: [
+          {
+            addresslocality: "Al Khor",
+            addressregion: "Al Khawr wa adh Dhakhirah",
+          },
+          {
+            addresslocality: "Al Wukayr",
+            addressregion: "Al Wakrah",
+          },
+          {
+            addresslocality: "Doha",
+            addressregion: "Doha",
+          },
+        ],
+        metatags: [
+          {
+            "og:image":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:app:url:iphone":
+              "https://apps.apple.com/US/app/id300048137?mt=8",
+            "twitter:app:id:googleplay": "com.accuweather.android",
+            "twitter:card": "summary",
+            "twitter:app:url:ipad":
+              "https://apps.apple.com/US/app/id300048137?mt=8",
+            "twitter:app:name:googleplay":
+              "AccuWeather Winter weather alerts & forecast radar",
+            "twitter:app:id:iphone":
+              "U7D6TVQ9TT.com.yourcompany.TestWithCustomTabs",
+            "og:description":
+              "Your localized snow-day weather forecast, from AccuWeather, provides you with the tailored weather forecast that you need to plan your day's activities",
+            "twitter:creator": "https://twitter.com/accuweather",
+            "og:image:secure_url":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:image":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:text:title":
+              "Al Markhiyah, Doha, Qatar Snow Days Weather Forecast | AccuWeather",
+            "twitter:site": "https://twitter.com/accuweather",
+            "fb:profile_id": "AccuWeather",
+            "og:type": "website",
+            "twitter:title":
+              "Al Markhiyah, Doha, Qatar Snow Days Weather Forecast | AccuWeather",
+            "twitter:site:id": "https://twitter.com/accuweather",
+            "og:image:url":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "og:title":
+              "Al Markhiyah, Doha, Qatar Snow Days Weather Forecast | AccuWeather",
+            "twitter:app:id:ipad":
+              "U7D6TVQ9TT.com.yourcompany.TestWithCustomTabs",
+            "fb:pages": "71781612888",
+            site_name: "AccuWeather",
+            referrer: "origin",
+            "fb:app_id": "132437483467956",
+            "twitter:app:url:googleplay":
+              "https://play.google.com/store/apps/details?id=com.accuweather.android",
+            "twitter:creator:id": "https://twitter.com/accuweather",
+            "twitter:app:name:ipad": "AccuWeather: Weather Tracker",
+            viewport: "width=device-width, initial-scale=1.0",
+            "twitter:description":
+              "Your localized snow-day weather forecast, from AccuWeather, provides you with the tailored weather forecast that you need to plan your day's activities",
+            "og:url":
+              "https://www.accuweather.com/en/qa/al-markhiyah/1280377/snow-day-weather/1280377",
+            "twitter:app:name:iphone": "AccuWeather: Weather Tracker",
+          },
+        ],
+        cse_image: [
+          {
+            src: "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+          },
+        ],
+      },
+    },
+    {
+      kind: "customsearch#result",
+      title: "Al Wakrah, Al Wakrah, Qatar Daily Weather | AccuWeather",
+      htmlTitle:
+        "Al <b>Wakrah</b>, Al <b>Wakrah</b>, Qatar Daily <b>Weather</b> | <b>AccuWeather</b>",
+      link: "https://www.accuweather.com/en/qa/al-wakrah/271678/daily-weather-forecast/271678",
+      displayLink: "www.accuweather.com",
+      snippet:
+        "Know what's coming with AccuWeather's extended daily forecasts for Al Wakrah, Al Wakrah, Qatar. Up to 90 days of daily highs, lows, and precipitation ...",
+      htmlSnippet:
+        "Know what&#39;s coming with <b>AccuWeather&#39;s</b> extended daily forecasts <b>for</b> Al <b>Wakrah</b>, Al <b>Wakrah</b>, Qatar. Up to 90 <b>days</b> of daily highs, lows, and precipitation&nbsp;...",
+      cacheId: "SR-rermpbS4J",
+      formattedUrl:
+        "https://www.accuweather.com/en/qa/al-wakrah/...weather-forecast/271678",
+      htmlFormattedUrl:
+        "https://www.<b>accuweather</b>.com/en/qa/al-<b>wakrah</b>/...<b>weather</b>-<b>forecast</b>/271678",
+      pagemap: {
+        cse_thumbnail: [
+          {
+            src: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuL3Cl1PGFBllvcwU4b4wHJPPefT6kVDqeEeO7j9LjXQpxbXqUOc2DOh1U",
+            width: "225",
+            height: "225",
+          },
+        ],
+        postaladdress: [
+          {
+            addresslocality: "Al Khor",
+            addressregion: "Al Khawr wa adh Dhakhirah",
+          },
+          {
+            addresslocality: "Al Wukayr",
+            addressregion: "Al Wakrah",
+          },
+          {
+            addresslocality: "Doha",
+            addressregion: "Doha",
+          },
+        ],
+        metatags: [
+          {
+            "og:image":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:app:url:iphone":
+              "https://apps.apple.com/US/app/id300048137?mt=8",
+            "twitter:app:id:googleplay": "com.accuweather.android",
+            "twitter:card": "summary",
+            "twitter:app:url:ipad":
+              "https://apps.apple.com/US/app/id300048137?mt=8",
+            "twitter:app:name:googleplay":
+              "AccuWeather Winter weather alerts & forecast radar",
+            "twitter:app:id:iphone":
+              "U7D6TVQ9TT.com.yourcompany.TestWithCustomTabs",
+            "og:description":
+              "Know what's coming with AccuWeather's extended daily forecasts for Al Wakrah, Al Wakrah, Qatar. Up to 90 days of daily highs, lows, and precipitation chances.",
+            "twitter:creator": "https://twitter.com/accuweather",
+            "og:image:secure_url":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:image":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:text:title":
+              "Al Wakrah, Al Wakrah, Qatar Daily Weather | AccuWeather",
+            "twitter:site": "https://twitter.com/accuweather",
+            "fb:profile_id": "AccuWeather",
+            "og:type": "website",
+            "twitter:title":
+              "Al Wakrah, Al Wakrah, Qatar Daily Weather | AccuWeather",
+            "twitter:site:id": "https://twitter.com/accuweather",
+            "og:image:url":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "og:title":
+              "Al Wakrah, Al Wakrah, Qatar Daily Weather | AccuWeather",
+            "twitter:app:id:ipad":
+              "U7D6TVQ9TT.com.yourcompany.TestWithCustomTabs",
+            "fb:pages": "71781612888",
+            site_name: "AccuWeather",
+            referrer: "origin",
+            "fb:app_id": "132437483467956",
+            "twitter:app:url:googleplay":
+              "https://play.google.com/store/apps/details?id=com.accuweather.android",
+            "twitter:creator:id": "https://twitter.com/accuweather",
+            "twitter:app:name:ipad": "AccuWeather: Weather Tracker",
+            viewport: "width=device-width, initial-scale=1.0",
+            "twitter:description":
+              "Know what's coming with AccuWeather's extended daily forecasts for Al Wakrah, Al Wakrah, Qatar. Up to 90 days of daily highs, lows, and precipitation chances.",
+            "og:url":
+              "https://www.accuweather.com/en/qa/al-wakrah/271678/daily-weather-forecast/271678",
+            "twitter:app:name:iphone": "AccuWeather: Weather Tracker",
+          },
+        ],
+        cse_image: [
+          {
+            src: "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+          },
+        ],
+      },
+    },
+    {
+      kind: "customsearch#result",
+      title: "As Sawq, Doha, Qatar Snow Days Weather Forecast | AccuWeather",
+      htmlTitle:
+        "As Sawq, <b>Doha</b>, Qatar Snow <b>Days Weather Forecast</b> | <b>AccuWeather</b>",
+      link: "https://www.accuweather.com/en/qa/as-sawq/1694768/snow-day-weather/1694768",
+      displayLink: "www.accuweather.com",
+      snippet:
+        "Your localized snow-day weather forecast, from AccuWeather, provides you with the tailored weather forecast that you need to plan your day's activities.",
+      htmlSnippet:
+        "Your localized snow-<b>day weather forecast</b>, from <b>AccuWeather</b>, provides you with the tailored <b>weather forecast</b> that you need to plan your <b>day&#39;s</b> activities.",
+      cacheId: "aVFZqXyPb8kJ",
+      formattedUrl:
+        "https://www.accuweather.com/en/qa/as-sawq/...day-weather/1694768",
+      htmlFormattedUrl:
+        "https://www.<b>accuweather</b>.com/en/qa/as-sawq/...<b>day</b>-<b>weather</b>/1694768",
+      pagemap: {
+        cse_thumbnail: [
+          {
+            src: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuL3Cl1PGFBllvcwU4b4wHJPPefT6kVDqeEeO7j9LjXQpxbXqUOc2DOh1U",
+            width: "225",
+            height: "225",
+          },
+        ],
+        postaladdress: [
+          {
+            addresslocality: "Al Khor",
+            addressregion: "Al Khawr wa adh Dhakhirah",
+          },
+          {
+            addresslocality: "Al Wukayr",
+            addressregion: "Al Wakrah",
+          },
+          {
+            addresslocality: "Doha",
+            addressregion: "Doha",
+          },
+        ],
+        metatags: [
+          {
+            "og:image":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:app:url:iphone":
+              "https://apps.apple.com/US/app/id300048137?mt=8",
+            "twitter:app:id:googleplay": "com.accuweather.android",
+            "twitter:card": "summary",
+            "twitter:app:url:ipad":
+              "https://apps.apple.com/US/app/id300048137?mt=8",
+            "twitter:app:name:googleplay":
+              "AccuWeather Winter weather alerts & forecast radar",
+            "twitter:app:id:iphone":
+              "U7D6TVQ9TT.com.yourcompany.TestWithCustomTabs",
+            "og:description":
+              "Your localized snow-day weather forecast, from AccuWeather, provides you with the tailored weather forecast that you need to plan your day's activities",
+            "twitter:creator": "https://twitter.com/accuweather",
+            "og:image:secure_url":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:image":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:text:title":
+              "As Sawq, Doha, Qatar Snow Days Weather Forecast | AccuWeather",
+            "twitter:site": "https://twitter.com/accuweather",
+            "fb:profile_id": "AccuWeather",
+            "og:type": "website",
+            "twitter:title":
+              "As Sawq, Doha, Qatar Snow Days Weather Forecast | AccuWeather",
+            "twitter:site:id": "https://twitter.com/accuweather",
+            "og:image:url":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "og:title":
+              "As Sawq, Doha, Qatar Snow Days Weather Forecast | AccuWeather",
+            "twitter:app:id:ipad":
+              "U7D6TVQ9TT.com.yourcompany.TestWithCustomTabs",
+            "fb:pages": "71781612888",
+            site_name: "AccuWeather",
+            referrer: "origin",
+            "fb:app_id": "132437483467956",
+            "twitter:app:url:googleplay":
+              "https://play.google.com/store/apps/details?id=com.accuweather.android",
+            "twitter:creator:id": "https://twitter.com/accuweather",
+            "twitter:app:name:ipad": "AccuWeather: Weather Tracker",
+            viewport: "width=device-width, initial-scale=1.0",
+            "twitter:description":
+              "Your localized snow-day weather forecast, from AccuWeather, provides you with the tailored weather forecast that you need to plan your day's activities",
+            "og:url":
+              "https://www.accuweather.com/en/qa/as-sawq/1694768/snow-day-weather/1694768",
+            "twitter:app:name:iphone": "AccuWeather: Weather Tracker",
+          },
+        ],
+        cse_image: [
+          {
+            src: "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+          },
+        ],
+      },
+    },
+    {
+      kind: "customsearch#result",
+      title: "Al Wakrah, Al Wakrah, Qatar Snow Days Weather Forecast ...",
+      htmlTitle:
+        "Al <b>Wakrah</b>, Al <b>Wakrah</b>, Qatar Snow <b>Days Weather Forecast</b> ...",
+      link: "https://www.accuweather.com/en/qa/al-wakrah/271678/snow-day-weather/271678",
+      displayLink: "www.accuweather.com",
+      snippet:
+        "Your localized snow-day weather forecast, from AccuWeather, provides you with the tailored weather forecast that you need to plan your day's activities.",
+      htmlSnippet:
+        "Your localized snow-<b>day weather forecast</b>, from <b>AccuWeather</b>, provides you with the tailored <b>weather forecast</b> that you need to plan your <b>day&#39;s</b> activities.",
+      cacheId: "KFOEhLzdrYYJ",
+      formattedUrl:
+        "https://www.accuweather.com/en/qa/al-wakrah/...day-weather/271678",
+      htmlFormattedUrl:
+        "https://www.<b>accuweather</b>.com/en/qa/al-<b>wakrah</b>/...<b>day</b>-<b>weather</b>/271678",
+      pagemap: {
+        cse_thumbnail: [
+          {
+            src: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTuL3Cl1PGFBllvcwU4b4wHJPPefT6kVDqeEeO7j9LjXQpxbXqUOc2DOh1U",
+            width: "225",
+            height: "225",
+          },
+        ],
+        postaladdress: [
+          {
+            addresslocality: "Al Khor",
+            addressregion: "Al Khawr wa adh Dhakhirah",
+          },
+          {
+            addresslocality: "Al Wukayr",
+            addressregion: "Al Wakrah",
+          },
+          {
+            addresslocality: "Doha",
+            addressregion: "Doha",
+          },
+        ],
+        metatags: [
+          {
+            "og:image":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:app:url:iphone":
+              "https://apps.apple.com/US/app/id300048137?mt=8",
+            "twitter:app:id:googleplay": "com.accuweather.android",
+            "twitter:card": "summary",
+            "twitter:app:url:ipad":
+              "https://apps.apple.com/US/app/id300048137?mt=8",
+            "twitter:app:name:googleplay":
+              "AccuWeather Winter weather alerts & forecast radar",
+            "twitter:app:id:iphone":
+              "U7D6TVQ9TT.com.yourcompany.TestWithCustomTabs",
+            "og:description":
+              "Your localized snow-day weather forecast, from AccuWeather, provides you with the tailored weather forecast that you need to plan your day's activities",
+            "twitter:creator": "https://twitter.com/accuweather",
+            "og:image:secure_url":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:image":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "twitter:text:title":
+              "Al Wakrah, Al Wakrah, Qatar Snow Days Weather Forecast | AccuWeather",
+            "twitter:site": "https://twitter.com/accuweather",
+            "fb:profile_id": "AccuWeather",
+            "og:type": "website",
+            "twitter:title":
+              "Al Wakrah, Al Wakrah, Qatar Snow Days Weather Forecast | AccuWeather",
+            "twitter:site:id": "https://twitter.com/accuweather",
+            "og:image:url":
+              "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
+            "og:title":
+              "Al Wakrah, Al Wakrah, Qatar Snow Days Weather Forecast | AccuWeather",
+            "twitter:app:id:ipad":
+              "U7D6TVQ9TT.com.yourcompany.TestWithCustomTabs",
+            "fb:pages": "71781612888",
+            site_name: "AccuWeather",
+            referrer: "origin",
+            "fb:app_id": "132437483467956",
+            "twitter:app:url:googleplay":
+              "https://play.google.com/store/apps/details?id=com.accuweather.android",
+            "twitter:creator:id": "https://twitter.com/accuweather",
+            "twitter:app:name:ipad": "AccuWeather: Weather Tracker",
+            viewport: "width=device-width, initial-scale=1.0",
+            "twitter:description":
+              "Your localized snow-day weather forecast, from AccuWeather, provides you with the tailored weather forecast that you need to plan your day's activities",
+            "og:url":
+              "https://www.accuweather.com/en/qa/al-wakrah/271678/snow-day-weather/271678",
+            "twitter:app:name:iphone": "AccuWeather: Weather Tracker",
+          },
+        ],
+        cse_image: [
+          {
+            src: "https://www.accuweather.com/images/logos/aw-logo-og-meta.png",
           },
         ],
       },

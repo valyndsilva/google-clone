@@ -37,9 +37,12 @@ function SearchHeader() {
             onClick={() => (searchInputRef.current.value = "")}
           />
           <span className="border-l-2 pl-2 border-gray-300">
-            <HiMicrophone className="h-5 w-5 mr-3 text-blue-400 hidden sm:inline-flex" />
+            <HiMicrophone className="h-5 w-5 mr-3 text-blue-400 hidden sm:inline-flex cursor-pointer" />
           </span>
-          <IoIosSearch className="h-6 w-6 mr-3 text-blue-400 hidden sm:inline-flex " />
+          <IoIosSearch
+            className="h-6 w-6 mr-3 text-blue-400 hidden sm:inline-flex cursor-pointer"
+            onClick={search}
+          />
           <button hidden type="submit" onClick={search}>
             Search
           </button>

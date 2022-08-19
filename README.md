@@ -4,6 +4,9 @@
 - cd project-name
 - npm run dev
 - npm install react-icons --save
+  -npm install classnames
+- npm install @tailwindcss/line-clamp
+  (https://tailwindcss.com/blog/multi-line-truncation-with-tailwindcss-line-clamp)
 
 ## Get Google API Key:
 
@@ -65,4 +68,30 @@ export async function getServerSideProps(context) {
     props: { results: data },
   };
 }
+```
+
+## Pagination
+
+``
+
+export async function getServerSideProps(context) {
+//Pagination Logic
+const startIndex = Number(context.query.start || 0);
+
+const useDummyData = true;
+// https://developers.google.com/custom-search/v1/using_rest
+const data = useDummyData
+? Response
+: await fetch(
+`https://www.googleapis.com/customsearch/v1?key=${process.env.GOOGLE_API_KEY}&cx=${process.env.GOOGLE_CSE_ID}&q=${context.query.term}&start=${startIndex}`
+).then((res) => res.json());
+
+// After Server has rendered pass the results to the client as props
+return {
+props: { results: data },
+};
+}
+
+```
+
 ```
