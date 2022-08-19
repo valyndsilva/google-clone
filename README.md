@@ -72,8 +72,9 @@ export async function getServerSideProps(context) {
 
 ## Pagination
 
-```
+In search.js add the data that needs to be pre-fetched from the server and pass it as prop to the parent:
 
+```
 export async function getServerSideProps(context) {
 //Pagination Logic
 const startIndex = Number(context.query.start || 0);
