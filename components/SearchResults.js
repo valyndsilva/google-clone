@@ -5,12 +5,11 @@ import Pagination from "./Pagination";
 
 function SearchResults({ results }) {
   // usePagination Hook Implementation:
+  const [currentPage, setCurrentPage] = useState(1);
   const data = results.items;
   let PageSize = 10;
   let totalResultsCount = Number(results.searchInformation?.totalResults);
   // console.log({ totalResultsCount });
-
-  const [currentPage, setCurrentPage] = useState(1);
 
   return (
     <section className="mx-auto w-full px-3 sm:pl-[5%] md:pl-[14%] lg:pl-52">
